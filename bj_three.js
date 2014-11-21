@@ -34,6 +34,3 @@ check ++
 }
 }
 console.log(deal);
-
-
-while
